@@ -10,18 +10,16 @@
 <img src="images/daily-news-logo-vector.svg?raw=true"/>
 
 ---
-[Project 3 Title](/fem-github-user-search-app)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Github User Search](/fem-github-user-search-app)
+<img src="images/github-user-search.JPG?raw=true"/>
 
 ---
 
-### Category Name 2
+### IoT / Robotic Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Dji Tello JS](/Tello_JS)
+- [XBox Controller](/xboxcontroller)
+- [mBot JS](/mBotJS)
 
 ---
 
