@@ -2,15 +2,15 @@
 
 ---
 
-[Ms-Outlook-Clone](/MS-Outlook-Clone)
+[Ms-Outlook-Clone](https://ms-outlook-clone.vercel.app/)
 <img src="images/outlook.webp?raw=true"/>
 
 ---
-[News App](/news-app)
+[News App](https://news-app-aliuwd927.vercel.app/)
 <img src="images/daily-news-logo-vector.svg?raw=true"/>
 
 ---
-[Github User Search](/fem-github-user-search-app)
+[Github User Search](https://fem-github-user-search-app-three.vercel.app/)
 <img src="images/github-user-search.JPG?raw=true"/>
 
 ---
