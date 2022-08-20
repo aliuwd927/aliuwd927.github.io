@@ -6,7 +6,7 @@
 <img src="images/outlook.webp?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[New App](/news-app)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
