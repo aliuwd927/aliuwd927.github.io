@@ -6,7 +6,7 @@
 <img src="images/outlook.webp?raw=true"/>
 
 ---
-[New App](/news-app)
+[News App](/news-app)
 <img src="images/daily-news-logo-vector.svg?raw=true"/>
 
 ---
