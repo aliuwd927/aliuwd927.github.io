@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Projects 1 
 
-[Project 1 Title](/MS-Outlook-Clone)
+[Ms-Outlook-Clone](/MS-Outlook-Clone)
 <img src="images/outlook.webp?raw=true"/>
 
 ---
