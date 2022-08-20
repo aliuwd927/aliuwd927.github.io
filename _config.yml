@@ -5,9 +5,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   Highly curious, motivated individual, and a continual learner with a strong focus on problem solving. 
   Thru this, I was able teach myself how to code ( JavaScript, React JS, and TypeScript ) ,and applied problem solving techniques on the job and at home when coding for fun. 
   <br><br>
-  Second description 
+  
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/andy-liu-951b9413/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
