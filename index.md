@@ -2,8 +2,6 @@
 
 ---
 
-### Projects 1 
-
 [Ms-Outlook-Clone](/MS-Outlook-Clone)
 <img src="images/outlook.webp?raw=true"/>
 
@@ -31,5 +29,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
