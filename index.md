@@ -10,7 +10,7 @@
 <img src="images/daily-news-logo-vector.svg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Title](/fem-github-user-search-app)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
