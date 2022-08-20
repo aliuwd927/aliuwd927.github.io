@@ -4,7 +4,9 @@
 
 [Ms-Outlook-Clone](https://ms-outlook-clone.vercel.app/)
 <img src="images/outlook.webp?raw=true"/>
-
+Learned how to implement CRUD with ReactJS / Typescript
+Used Zustand as a Global State Management
+MVP site as I want to continue to learn more and will return to slowly improve upon in the future.
 ---
 [News App](https://news-app-aliuwd927.vercel.app/)
 <img src="images/daily-news-logo-vector.svg?raw=true"/>
