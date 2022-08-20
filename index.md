@@ -5,7 +5,7 @@
 [Ms-Outlook-Clone](https://ms-outlook-clone.vercel.app/)
 <img src="images/outlook.webp?raw=true"/>
 Learned how to implement CRUD with ReactJS / Typescript
-Used Zustand as a Global State Management
+Used Zustand as a Global State Management.
 MVP site as I want to continue to learn more and will return to slowly improve upon in the future.
 Technologies Used: ReactJS, Zustand,TypeScript
 ---
@@ -17,6 +17,7 @@ Technologies Used: ReactJS, Redux, Puppeteer, ExpressJS, TypeScript
 ---
 [Github User Search](https://fem-github-user-search-app-three.vercel.app/)
 <img src="images/github-user-search.JPG?raw=true"/>
+Leanred ReactJS / API useage to pull Github Information.
 Technologies Used: ReactJS, Github API, TypeScript
 ---
 
