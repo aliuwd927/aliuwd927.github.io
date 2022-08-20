@@ -17,9 +17,9 @@
 
 ### IoT / Robotic Projects
 
-- [Dji Tello JS](/Tello_JS)
-- [XBox Controller](/xboxcontroller)
-- [mBot JS](/mBotJS)
+- [Dji Tello JS](https://github.com/aliuwd927/Tello_JS)
+- [XBox Controller](https://github.com/aliuwd927/xboxcontroller)
+- [mBot JS](https://github.com/aliuwd927/mBotJS)
 
 ---
 
