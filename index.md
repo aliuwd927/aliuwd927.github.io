@@ -1,5 +1,17 @@
 ## Portfolio
 
+[Xbox Controller / DJI Tello](https://github.com/aliuwd927/xboxcontroller)
+<img src="images/20220821_014507.jpg?raw=true"/>
+Built a react app where we use GamePadAPI to read the XBox Controller, send information to the backend using fastify websocket and have that information sent to the drone and the drone will also return its own data telementry to react FE.
+ "I have curated a community of fellow talented developers and friends through my software development streams #buildinpublic #opensource @micheaaa
+ "Also a Built live on stream at twitch.tv/andee927" @SouLxBurN
+ @lovemesenpai101 is the hype man 
+
+<br>
+Technologies Used: ReactJS,TypeScript,Fastify Websocket, DJI Ryze Tello SDK 2.0
+<br><br>
+
+
 ---
 
 [Ms-Outlook-Clone](https://ms-outlook-clone.vercel.app/)
