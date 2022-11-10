@@ -23,12 +23,11 @@ MVP site as I want to continue to learn more and will return to slowly improve u
 Technologies Used: ReactJS, Zustand,TypeScript
 <br><br>
 ---
-[News App](https://news-app-aliuwd927.vercel.app/)
-<img src="images/daily-news-logo-vector.svg?raw=true"/>
-Learned ExpressJS / Redux / RTK QUERY / Webscrapper ( Puppeteer )
-I wanted to create a news app, scraping the web from 3 different websites and building it using my own API
+[Nuvo Mock Challenge](https://nuvo-mock-challenge.vercel.app/)
+<img src="images/NuvoMockChallenge.PNG?raw=true"/>
+Take home project using JAM Stack
 <br>
-Technologies Used: ReactJS, Redux, Puppeteer, ExpressJS, TypeScript
+Technologies Used: ReactJS,Javascript, API, Markup,
 <br><br>
 ---
 [Github User Search](https://fem-github-user-search-app-three.vercel.app/)
